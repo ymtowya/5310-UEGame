@@ -1,0 +1,1085 @@
+﻿Log file open, 11/14/23 01:12:40
+LogPakFile: Display: Found Pak file ../../../demo5/Content/Paks/demo5-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../demo5/Content/Paks/demo5-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.045021
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 5800H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Oct 11 2020 08:22:12
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: E:/game/demo5/Release/WindowsNoEditor/demo5/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../demo5/Saved/Config/WindowsNoEditor/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [../../../demo5/Saved/Config/WindowsNoEditor/Engine.ini]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [../../../demo5/Saved/Config/WindowsNoEditor/Engine.ini]
+[2023.11.14-09.12.40:497][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [../../../demo5/Saved/Config/WindowsNoEditor/Engine.ini]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [../../../demo5/Saved/Config/WindowsNoEditor/Engine.ini]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.11.14-09.12.40:497][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [../../../demo5/Saved/Config/WindowsNoEditor/Engine.ini]
+[2023.11.14-09.12.40:498][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2023.11.14-09.12.40:498][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2023.11.14-09.12.40:500][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2023.11.14-09.12.40:500][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2023.11.14-09.12.40:500][  0]LogHAL: Display: Platform has ~ 16 GB [16478408704 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.11.14-09.12.40:500][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2023.11.14-09.12.40:500][  0]LogInit: Going up to parent DeviceProfile []
+[2023.11.14-09.12.40:500][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [../../../demo5/Saved/Config/WindowsNoEditor/Scalability.ini]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.11.14-09.12.40:500][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../demo5/Saved/Config/WindowsNoEditor/Engine.ini]
+[2023.11.14-09.12.40:502][  0]LogInit: Computer: YAHMAW
+[2023.11.14-09.12.40:502][  0]LogInit: User: Marchow
+[2023.11.14-09.12.40:502][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.11.14-09.12.40:502][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.11.14-09.12.40:502][  0]LogMemory: Memory total: Physical=15.3GB (16GB approx)
+[2023.11.14-09.12.40:502][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2023.11.14-09.12.40:502][  0]LogMemory: Process Physical Memory: 68.77 MB used, 68.77 MB peak
+[2023.11.14-09.12.40:502][  0]LogMemory: Process Virtual Memory: 74.13 MB used, 74.13 MB peak
+[2023.11.14-09.12.40:502][  0]LogMemory: Physical Memory: 5161.40 MB used,  10553.63 MB free, 15715.04 MB total
+[2023.11.14-09.12.40:502][  0]LogMemory: Virtual Memory: 4957.19 MB used,  134212768.00 MB free, 134217728.00 MB total
+[2023.11.14-09.12.40:515][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.11.14-09.12.40:684][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.11.14-09.12.40:687][  0]LogInit: Using OS detected language (zh-CN).
+[2023.11.14-09.12.40:687][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.11.14-09.12.40:687][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2023.11.14-09.12.40:687][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2023.11.14-09.12.40:706][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.11.14-09.12.40:706][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.11.14-09.12.40:734][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.11.14-09.12.40:734][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.11.14-09.12.40:734][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.11.14-09.12.40:734][  0]LogD3D11RHI: D3D11 adapters:
+[2023.11.14-09.12.40:866][  0]LogD3D11RHI:    0. 'NVIDIA T600 Laptop GPU' (Feature Level 11_0)
+[2023.11.14-09.12.40:866][  0]LogD3D11RHI:       3950/0/7857 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.11.14-09.12.40:918][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2023.11.14-09.12.40:918][  0]LogD3D11RHI:       495/0/7857 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2023.11.14-09.12.40:922][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.11.14-09.12.40:922][  0]LogD3D11RHI:       0/0/7857 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.11.14-09.12.40:922][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.11.14-09.12.40:927][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.11.14-09.12.40:927][  0]LogD3D11RHI:     GPU DeviceId: 0x1fba (for the marketing name, search the web for "GPU Device Id")
+[2023.11.14-09.12.40:927][  0]LogWindows: EnumDisplayDevices:
+[2023.11.14-09.12.40:927][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2023.11.14-09.12.40:928][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.11.14-09.12.40:928][  0]LogWindows:    2. 'NVIDIA T600 Laptop GPU' (P:0 D:1)
+[2023.11.14-09.12.40:928][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2023.11.14-09.12.40:928][  0]LogD3D11RHI:     Adapter Name: NVIDIA T600 Laptop GPU
+[2023.11.14-09.12.40:928][  0]LogD3D11RHI:   Driver Version: 546.01 (internal:31.0.15.4601, unified:546.01)
+[2023.11.14-09.12.40:928][  0]LogD3D11RHI:      Driver Date: 10-26-2023
+[2023.11.14-09.12.40:928][  0]LogRHI: Texture pool is 2765 MB (70% of 3950 MB)
+[2023.11.14-09.12.40:999][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.11.14-09.12.40:999][  0]LogD3D11RHI: Async texture creation enabled
+[2023.11.14-09.12.40:999][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.11.14-09.12.41:000][  0]LogD3D11RHI: HDR output is supported on display 1 (NvId: 0x80061083).
+[2023.11.14-09.12.41:020][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.11.14-09.12.41:020][  0]LogShaderLibrary: Display: Using ../../../demo5/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 2058 unique shaders.
+[2023.11.14-09.12.41:020][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2023.11.14-09.12.41:021][  0]LogTemp: Warning: Clearing the OS Cache
+[2023.11.14-09.12.41:021][  0]LogPakFile: New pak file ../../../demo5/Content/Paks/demo5-WindowsNoEditor.pak added to pak precacher.
+[2023.11.14-09.12.41:037][  0]LogSlate: Using FreeType 2.10.0
+[2023.11.14-09.12.41:038][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.11.14-09.12.41:085][  0]LogShaderLibrary: Display: Using ../../../demo5/Content/ShaderArchive-demo5-PCD3D_SM5.ushaderbytecode for material shader code. Total 1134 unique shaders.
+[2023.11.14-09.12.41:085][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library demo5
+[2023.11.14-09.12.41:085][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2023.11.14-09.12.41:085][  0]LogRHI: Display: Failed to open default shader pipeline cache for demo5 using shader platform 0.
+[2023.11.14-09.12.41:085][  0]LogInit: Using OS detected language (zh-CN).
+[2023.11.14-09.12.41:085][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.11.14-09.12.41:085][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2023.11.14-09.12.41:085][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2023.11.14-09.12.41:086][  0]LogTextLocalizationManager: Compacting localization data took   0.36ms
+[2023.11.14-09.12.41:087][  0]LogAssetRegistry: FAssetRegistry took 0.0014 seconds to start up
+[2023.11.14-09.12.41:144][  0]LogStreaming: Display: Flushing async loaders.
+[2023.11.14-09.12.41:144][  0]LogPackageLocalizationCache: Processed 18 localized package path(s) for 1 prioritized culture(s) in 0.000067 seconds
+[2023.11.14-09.12.41:147][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2023.11.14-09.12.41:155][  0]LogNetVersion: demo5 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3286967258)
+[2023.11.14-09.12.41:177][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.14-09.12.41:177][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.11.14-09.12.41:193][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000187FCFD61C0), frame # 0
+[2023.11.14-09.12.41:193][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187F67E3F80), frame # 0
+[2023.11.14-09.12.41:194][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187FC36E400), frame # 0
+[2023.11.14-09.12.41:214][  0]LogMoviePlayer: Initializing movie player
+[2023.11.14-09.12.41:217][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.11.14-09.12.41:217][  0]LogOcInput: OculusInput pre-init called
+[2023.11.14-09.12.41:220][  0]LogUObjectArray: 14241 objects as part of root set at end of initial load.
+[2023.11.14-09.12.41:220][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2023.11.14-09.12.41:220][  0]LogUObjectAllocator: 2888600 out of 0 bytes used by permanent object pool.
+[2023.11.14-09.12.41:220][  0]LogUObjectArray: CloseDisregardForGC: 14241/14241 objects in disregard for GC pool
+[2023.11.14-09.12.41:221][  0]LogEngine: Initializing Engine...
+[2023.11.14-09.12.41:222][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.11.14-09.12.41:222][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.11.14-09.12.41:251][  0]LogPakFile: Precache HighWater 16MB
+
+[2023.11.14-09.12.41:251][  0]LogPakFile: Precache HighWater 32MB
+
+[2023.11.14-09.12.41:251][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.11.14-09.12.41:251][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.14-09.12.41:251][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.14-09.12.41:251][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.14-09.12.41:251][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.14-09.12.41:251][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.14-09.12.41:251][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.14-09.12.41:251][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.14-09.12.41:251][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.14-09.12.41:251][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.11.14-09.12.41:251][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.11.14-09.12.41:331][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.11.14-09.12.41:336][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.11.14-09.12.41:336][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.11.14-09.12.41:432][  0]LogAudioMixer: Display: Using Audio Device CB342CK (NVIDIA High Definition Audio)
+[2023.11.14-09.12.41:432][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.14-09.12.41:433][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.14-09.12.41:433][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.14-09.12.41:434][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.11.14-09.12.41:434][  0]LogInit: FAudioDevice initialized.
+[2023.11.14-09.12.41:435][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.11.14-09.12.41:435][  0]LogInit: Texture streaming: Enabled
+[2023.11.14-09.12.41:440][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-09.12.41:440][  0]LogInit: Display: Game Engine Initialized.
+[2023.11.14-09.12.41:440][  0]LogInit: Display: Starting Game.
+[2023.11.14-09.12.41:440][  0]LogNet: Browse: /Game/Main?Name=Player
+[2023.11.14-09.12.41:440][  0]LogLoad: LoadMap: /Game/Main?Name=Player
+[2023.11.14-09.12.41:442][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.11.14-09.12.41:442][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-09.12.41:443][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-09.12.41:445][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.11.14-09.12.41:474][  0]LogAIModule: Creating AISystem for world Main
+[2023.11.14-09.12.41:474][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000187CEBD0800), frame # 0
+[2023.11.14-09.12.41:474][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000187CE44F880), frame # 0
+[2023.11.14-09.12.41:474][  0]LogLoad: Game class is 'demo5GameModeBase'
+[2023.11.14-09.12.41:476][  0]LogWorld: Bringing World /Game/Main.Main up for play (max tick rate 0) at 2023.11.14-01.12.41
+[2023.11.14-09.12.41:476][  0]LogWorld: Bringing up level for play took: 0.001146
+[2023.11.14-09.12.41:477][  0]LogUMG: Display: Widget Class ShowPoints_C - Loaded Fast Template.
+[2023.11.14-09.12.41:477][  0]LogLoad: Took 0.036696 seconds to LoadMap(/Game/Main)
+[2023.11.14-09.12.41:479][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2023.11.14-09.12.41:490][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2023.11.14-09.12.41:490][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2023.11.14-09.12.41:490][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2023.11.14-09.12.41:490][  0]LogLoad: (Engine Initialization) Total time: 1.23 seconds
+[2023.11.14-09.12.41:491][  0]LogRenderer: Reallocating scene render targets to support 1536x864 Format 10 NumSamples 1 (Frame:1).
+[2023.11.14-09.12.41:524][  0]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.11.14-09.12.41:527][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.11.14-09.12.42:521][139]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482537 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.43:522][330]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482536 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.44:522][516]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482535 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.45:526][700]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482534 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.46:524][884]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482533 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.47:521][ 74]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482532 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.48:522][264]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482531 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.49:523][450]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482530 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.50:526][633]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482529 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.51:525][818]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482528 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.52:526][999]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482527 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.53:524][179]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482526 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.54:521][362]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482525 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.55:526][547]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482524 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.56:297][690]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482523 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.56:525][731]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482522 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.57:522][909]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482521 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.57:773][954]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482520 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.58:523][ 89]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482519 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.12.59:524][266]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482518 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.00:523][443]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482517 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.01:526][619]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482516 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.01:805][669]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482515 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.02:523][795]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482514 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.02:925][865]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482513 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.03:423][951]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482512 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.03:523][968]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482511 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.03:698][999]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482510 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.03:925][ 39]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482509 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.04:176][ 83]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482508 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.04:408][124]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482507 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.04:523][144]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482506 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.04:618][161]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482505 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.04:839][200]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482504 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.05:047][237]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482503 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.05:244][272]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482502 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.05:490][316]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482501 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.05:525][322]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482500 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.05:755][364]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482499 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.06:035][415]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482498 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.06:527][505]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482497 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.06:622][523]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482496 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.07:058][603]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482495 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.07:296][647]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482494 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.07:509][686]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482493 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.07:525][689]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482492 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.07:738][728]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482491 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.08:010][777]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482490 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.08:225][816]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482489 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.08:526][872]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482488 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.08:899][940]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482487 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.09:524][ 55]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482486 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.10:523][239]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482485 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.11:524][421]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482484 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.12:521][606]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482483 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.13:522][784]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482482 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.14:525][962]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482481 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.15:524][140]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482480 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.16:524][319]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482479 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.17:526][499]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482478 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.18:525][684]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482477 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.19:525][873]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482476 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.20:524][ 57]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482475 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.21:524][238]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482474 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.22:526][420]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482473 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.23:521][609]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482472 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.24:524][796]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482471 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.25:525][981]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482470 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.25:984][ 66]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482469 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.26:526][165]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482468 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.27:371][321]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482467 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.27:523][349]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482466 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.28:525][532]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482465 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.29:063][633]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482464 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.29:523][719]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482463 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.29:613][736]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482462 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.30:118][829]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482461 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.30:527][905]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482460 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.30:706][939]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482459 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.31:415][ 69]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482458 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.31:522][ 88]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482457 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.32:059][183]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482456 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.32:524][267]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482455 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.32:534][269]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482454 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.32:867][331]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482453 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.33:143][383]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482452 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.33:451][440]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482451 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.33:526][454]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482450 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.34:109][562]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482449 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.34:524][638]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482448 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.34:683][668]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482447 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.35:523][825]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482446 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.35:884][891]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482445 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.36:525][  9]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482444 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.37:525][193]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482443 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.37:646][216]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482442 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.38:232][325]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482441 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.38:523][380]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482440 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.39:257][515]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482439 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.39:525][566]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482438 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.40:523][744]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482437 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.40:643][766]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482436 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.41:524][926]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482435 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.42:522][110]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482434 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.43:176][231]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482433 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.43:527][295]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482432 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.44:523][478]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482431 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.45:509][657]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482430 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.45:525][660]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482429 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.45:929][733]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482428 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.46:192][780]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482427 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.46:448][825]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482426 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.46:523][838]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482425 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.46:762][881]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482424 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.47:339][986]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482423 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.47:523][ 20]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482422 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.47:560][ 27]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482421 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.48:526][201]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482420 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.49:522][380]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482419 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.50:522][562]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482418 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.51:452][736]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482417 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.51:526][750]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482416 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.51:905][822]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482415 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.52:419][916]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482414 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.52:525][936]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482413 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.52:657][961]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482412 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.53:258][ 73]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482411 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.53:523][121]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482410 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.54:522][304]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482409 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.55:236][437]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482408 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.55:525][489]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482407 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.55:625][508]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482406 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.56:110][598]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482405 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.56:523][674]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482404 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.56:538][677]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482403 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.57:252][808]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482402 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.57:516][856]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482401 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.57:527][858]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482400 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.57:812][910]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482399 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.58:052][953]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482398 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.58:267][992]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482397 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.58:513][ 37]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482396 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.58:525][ 39]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482395 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.58:735][ 78]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482394 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.59:093][143]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482393 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.59:298][180]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482392 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.59:511][218]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482391 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.59:523][220]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482390 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.59:712][254]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482389 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.13.59:913][290]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482388 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.00:134][330]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482387 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.00:433][385]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482386 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.00:522][401]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482385 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.00:882][468]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482384 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.01:088][506]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482383 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.01:334][552]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482382 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.01:522][587]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482381 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.01:537][590]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482380 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.01:745][629]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482379 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.01:957][668]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482378 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.02:172][708]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482377 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.02:384][747]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482376 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.02:523][773]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482375 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.02:593][786]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482374 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.03:172][894]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482373 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.03:413][939]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482372 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.03:525][960]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482371 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.03:710][995]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482370 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.03:926][ 35]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482369 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.04:139][ 75]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482368 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.04:353][115]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482367 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.04:526][147]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482366 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.04:556][153]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482365 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.04:762][191]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482364 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.04:972][230]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482363 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.05:176][268]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482362 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.05:525][333]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482361 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.05:679][362]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482360 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.05:886][400]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482359 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.06:089][438]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482358 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.06:308][479]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482357 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.06:513][517]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482356 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.06:523][519]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482355 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.06:732][558]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482354 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.06:939][596]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482353 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.07:158][636]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482352 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.07:352][671]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482351 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.07:521][702]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482350 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.07:560][709]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482349 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.07:777][749]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482348 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.07:968][784]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482347 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.08:184][823]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482346 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.08:389][861]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482345 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.08:525][886]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482344 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.08:595][899]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482343 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.08:814][939]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482342 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.09:031][979]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482341 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.09:254][ 20]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482340 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.09:526][ 70]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482339 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.09:527][ 70]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482338 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.09:830][126]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482337 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.10:036][164]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482336 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.10:252][204]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482335 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.10:484][246]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482334 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.10:523][253]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482333 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.10:751][295]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482332 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.11:002][341]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482331 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.11:231][383]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482330 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.11:473][427]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482329 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.11:523][436]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482328 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.11:711][470]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482327 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.11:989][521]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482326 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.12:248][569]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482325 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.12:481][611]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482324 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.12:522][618]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482323 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.12:729][656]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482322 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.12:968][699]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482321 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.13:194][740]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482320 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.13:422][782]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482319 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.13:526][801]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482318 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.13:645][823]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482317 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.13:881][866]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482316 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.14:138][913]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482315 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.14:523][983]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482314 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.14:605][998]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482313 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.15:272][118]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482312 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.15:499][159]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482311 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.15:522][163]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482310 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.15:818][216]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482309 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.16:033][255]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482308 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.16:269][297]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482307 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.16:467][333]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482306 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.16:523][343]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482305 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.16:694][374]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482304 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.16:927][416]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482303 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.17:164][460]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482302 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.17:399][503]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482301 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.17:525][526]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482300 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.17:637][547]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482299 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.17:844][585]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482298 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.18:095][631]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482297 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.18:525][710]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482296 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.18:575][719]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482295 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.18:832][766]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482294 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.19:035][803]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482293 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.19:253][842]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482292 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.19:465][880]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482291 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.19:522][890]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482290 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.19:688][920]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482289 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.19:912][960]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482288 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.20:154][  4]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482287 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.20:401][ 49]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482286 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.20:522][ 71]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482285 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.20:634][ 92]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482284 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.20:866][134]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482283 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.21:090][175]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482282 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.21:309][215]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482281 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.21:523][254]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482280 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.21:543][258]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482279 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.21:761][298]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482278 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.21:991][340]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482277 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.22:219][382]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482276 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.22:446][423]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482275 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.22:523][437]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482274 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.22:682][466]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482273 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.23:245][569]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482272 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.23:485][613]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482271 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.23:524][620]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482270 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.23:698][652]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482269 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.23:909][691]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482268 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.24:126][731]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482267 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.24:371][776]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482266 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.24:526][804]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482265 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.24:602][818]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482264 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.24:825][858]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482263 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.25:060][901]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482262 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.25:272][940]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482261 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.25:500][982]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482260 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.25:522][986]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482259 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.25:734][ 24]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482258 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.25:961][ 65]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482257 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.26:185][106]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482256 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.26:483][160]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482255 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.26:522][167]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482254 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.26:785][215]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482253 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.27:003][255]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482252 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.27:217][294]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482251 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.27:429][333]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482250 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.27:524][350]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482249 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.27:651][373]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482248 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.27:855][410]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482247 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.28:085][452]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482246 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.28:319][495]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482245 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.28:522][532]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482244 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.28:565][540]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482243 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.28:797][582]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482242 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.29:011][621]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482241 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.29:207][657]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482240 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.29:415][695]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482239 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.29:524][715]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482238 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.29:632][735]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482237 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.29:852][775]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482236 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.30:077][816]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482235 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.30:307][858]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482234 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.30:525][898]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482233 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.30:531][899]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482232 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.31:401][ 59]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482231 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.31:526][ 82]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482230 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.31:679][110]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482229 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.31:882][148]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482228 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.32:111][190]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482227 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.32:322][229]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482226 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.32:523][266]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482225 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.32:549][271]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482224 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.32:782][314]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482223 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.33:027][359]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482222 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.33:295][409]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482221 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.33:525][452]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482220 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.33:562][459]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482219 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.33:857][514]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482218 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.34:157][570]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482217 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.34:422][619]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482216 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.34:524][638]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482215 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.35:524][821]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482214 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.36:527][999]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482213 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.37:526][176]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482212 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.38:125][284]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482211 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.38:524][355]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482210 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.39:521][535]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482209 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.40:060][633]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482208 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.40:523][717]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482207 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.41:268][852]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482206 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.41:521][898]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482205 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.42:444][ 65]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482204 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.42:521][ 79]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482203 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.43:519][260]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482202 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.43:525][261]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482201 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.44:499][438]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482200 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.44:522][442]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482199 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.45:521][623]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482198 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.46:521][799]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482197 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.47:525][978]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482196 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.48:525][157]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482195 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.49:525][336]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482194 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.50:524][509]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482193 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.51:525][684]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482192 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.51:815][736]LogActor: Warning: BP_Missle_C /Game/Main.Main:PersistentLevel.BP_Missle_C_2147482191 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.52:526][867]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482190 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.53:524][ 52]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482189 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.54:525][238]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482188 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.55:526][423]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482187 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.56:522][603]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482186 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.57:522][784]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482185 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.58:527][970]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482184 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.14.59:521][155]LogActor: Warning: BP_Enemy_C /Game/Main.Main:PersistentLevel.BP_Enemy_C_2147482183 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.11.14-09.15.00:498][336]LogSlate: Request Window 'demo5 (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.11.14-09.15.00:509][336]LogSlate: Window 'demo5 (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.11.14-09.15.00:517][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-09.15.00:517][337]LogEngine: All Windows Closed
+[2023.11.14-09.15.00:517][337]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.11.14-09.15.00:517][337]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.11.14-09.15.00:517][338]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.11.14-09.15.00:517][338]LogAudio: Display: Shutting down audio device while 2 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2023.11.14-09.15.00:560][338]LogInit: Display: PreExit Game.
+[2023.11.14-09.15.00:571][338]LogWorld: BeginTearingDown for /Game/Main
+[2023.11.14-09.15.00:571][338]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2023.11.14-09.15.00:571][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.14-09.15.01:309][338]LogExit: Preparing to exit.
+[2023.11.14-09.15.01:309][338]LogMoviePlayer: Shutting down movie player
+[2023.11.14-09.15.01:311][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.14-09.15.01:312][338]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.11.14-09.15.01:313][338]LogExit: Game engine shut down
+[2023.11.14-09.15.01:314][338]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (00000187FCFD61C0), frame # 25338
+[2023.11.14-09.15.01:314][338]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187F67E3F80), frame # 25338
+[2023.11.14-09.15.01:314][338]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187FC36E400), frame # 25338
+[2023.11.14-09.15.01:321][338]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000187CEBD0800), frame # 25338
+[2023.11.14-09.15.01:321][338]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000187CE44F880), frame # 25338
+[2023.11.14-09.15.01:332][338]LogExit: Object subsystem successfully closed.
+[2023.11.14-09.15.01:340][338]LogModuleManager: Shutting down and abandoning module AutomationController (318)
+[2023.11.14-09.15.01:340][338]LogModuleManager: Shutting down and abandoning module AutomationWorker (316)
+[2023.11.14-09.15.01:340][338]LogModuleManager: Shutting down and abandoning module Voice (314)
+[2023.11.14-09.15.01:340][338]LogModuleManager: Shutting down and abandoning module AIModule (312)
+[2023.11.14-09.15.01:340][338]LogModuleManager: Shutting down and abandoning module GameplayDebugger (311)
+[2023.11.14-09.15.01:340][338]LogModuleManager: Shutting down and abandoning module NavigationSystem (309)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (306)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module WebMMedia (304)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module OculusMR (302)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (300)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (298)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (296)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (294)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module CharacterAI (292)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module PlanarCut (290)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module SessionServices (288)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module LiveCoding (286)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module LevelSequence (284)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (282)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module MovieScene (280)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (278)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (276)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module AudioMixerCore (275)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (272)
+[2023.11.14-09.15.01:341][338]LogModuleManager: Shutting down and abandoning module ProfilerService (270)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module TaskGraph (268)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module Synthesis (266)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module OculusInput (264)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (262)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module GooglePAD (260)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (258)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module CableComponent (256)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module AudioCapture (254)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (253)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module AssetTags (250)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (248)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module AppleImageUtils (246)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module AndroidPermission (244)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module TemplateSequence (242)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module MediaCompositing (240)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module ImgMedia (238)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (236)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (234)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (232)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (230)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (228)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module ChaosNiagara (226)
+[2023.11.14-09.15.01:546][338]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (224)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (222)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module EditableMesh (220)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (218)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MeshConversion (216)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module DynamicMesh (214)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (212)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module GeometricObjects (210)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module ChaosCloth (208)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module BackChannel (206)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module AutomationUtils (204)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (202)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module GeometryCache (200)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module UObjectPlugin (198)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module demo5 (196)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module SoundFields (194)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (192)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (188)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module ActorSequence (186)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module UdpMessaging (184)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module TcpMessaging (182)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (180)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (178)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (176)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (174)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (172)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (170)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (168)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (166)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MagicLeapController (164)
+[2023.11.14-09.15.01:547][338]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (162)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MagicLeapAR (160)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module AugmentedReality (159)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (156)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (154)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module Niagara (152)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module SignalProcessing (151)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module NiagaraCore (148)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module FacialAnimation (146)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module SignificanceManager (144)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module AnimationSharing (142)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (140)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module Paper2D (138)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (136)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (134)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (132)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module PacketHandler (130)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (128)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MediaAssets (126)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module Overlay (124)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module FunctionalTesting (122)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MessageLog (120)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module UMG (118)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module SlateReflector (116)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module Slate (114)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module SlateCore (112)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module MRMesh (110)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module Messaging (108)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (106)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module XAudio2 (104)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module Networking (102)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module Core (100)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module ImageWrapper (96)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module InputCore (94)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module Settings (92)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module PhysXCooking (90)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module ChaosSolvers (88)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (87)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module Chaos (84)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module AVEncoder (80)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (76)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module SteamVRInput (74)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2023.11.14-09.15.01:547][338]LogHMD: Freeing OpenVRDLLHandle.
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (62)
+[2023.11.14-09.15.01:547][338]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2023.11.14-09.15.01:565][338]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2023.11.14-09.15.01:565][338]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2023.11.14-09.15.01:565][338]LogModuleManager: Shutting down and abandoning module Media (51)
+[2023.11.14-09.15.01:565][338]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2023.11.14-09.15.01:565][338]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (46)
+[2023.11.14-09.15.01:565][338]LogModuleManager: Shutting down and abandoning module NiagaraShader (44)
+[2023.11.14-09.15.01:565][338]LogModuleManager: Shutting down and abandoning module VariantManagerContent (42)
+[2023.11.14-09.15.01:565][338]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2023.11.14-09.15.01:565][338]LogModuleManager: Shutting down and abandoning module AISupportModule (38)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (36)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (34)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module PlatformCrypto (32)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.11.14-09.15.01:566][338]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.11.14-09.15.01:567][338]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.11.14-09.15.01:567][338]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.11.14-09.15.01:567][338]LogD3D11RHI: Shutdown
+[2023.11.14-09.15.01:567][338]LogD3D11RHI: CleanupD3DDevice
+[2023.11.14-09.15.01:572][338]LogExit: Exiting.
+[2023.11.14-09.15.01:582][338]Log file closed, 11/14/23 01:15:01
