@@ -24,7 +24,7 @@ public:
 	UPROPERTY(EditAnywhere)
 		class USoundBase* ExplosionSound;
 	UPROPERTY(VisibleAnywhere)
-		float FloatSpeed = 500.0f;
+		float FloatSpeed = 20.0f;
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;

@@ -80,7 +80,7 @@ void ADrone::Tick(float DeltaTime)
 		{
 			float currentPitch = Mesh->GetRelativeRotation().Pitch;
 			float sign = FMath::Sign(currentPitch);
-			Mesh->AddRelativeRotation(FRotator(-currentPitch * DeltaTime, 0.0f, 0.0f));
+			Mesh->AddRelativeRotation(FRotator(-sign * 10.0f * DeltaTime, 0.0f, 0.0f));
 			if (FMath::Abs(Mesh->GetRelativeRotation().Pitch) <= KINDA_SMALL_NUMBER)
 			{
 				Mesh->SetRelativeRotation(FRotator(0.0f, 0.0f, 0.0f));

@@ -2,6 +2,9 @@
 # Visual Studio 2019 user specific files
 .vs/
 
+# Release related
+*.zip
+
 # Compiled Object files
 *.slo
 *.lo

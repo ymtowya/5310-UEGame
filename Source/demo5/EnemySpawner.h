@@ -25,7 +25,7 @@ public:
 	UPROPERTY(EditAnywhere)
 		TSubclassOf<AEnemy> EnemyType;
 	UPROPERTY(EditAnywhere)
-		float SpawnSpan = 1.0f;
+		float SpawnSpan = 3.0f;
 
 protected:
 	// Called when the game starts or when spawned

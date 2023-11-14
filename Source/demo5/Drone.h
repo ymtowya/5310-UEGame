@@ -53,7 +53,7 @@ public:
 		float ForwardThrustMax = 1000.0f;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Init")
-		float TurnStrength = 500000.0f;
+		float TurnStrength = 50000.0f;
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Init")
 		float PaddleRotateSpeed = 300.0f;
 
